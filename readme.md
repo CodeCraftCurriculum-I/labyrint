@@ -5,7 +5,7 @@ Any feature marked with ** is considered compulsory. Some features are interdepe
 
 The game is started with the command : <code>node game.mjs</code>
 
-## Features
+## Features (Tasks)
 ** The starting level has an empty slot in the surrounding wall. This slot should function as a door into the level called "aSharpPlace." Implement the door functionality so that the player can proceed to the next level.  
 ** Create a new level (a third level) and link the unused door in "aSharpPlace" to exit into the new room.  
 ** In "aSharpPlace," implement teleport functionality for the "♨︎" symbols. Entering one should move the player to the other.  
